@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Prince Tiwari 👋</h1>
-<h3 align="center">Frontend Developer | Vue.js Developer | UI/UX Enthusiast</h3>
+<h1 align="left">Hi there, I'm Prince Tiwari 👋</h1>
+<h3 align="left">Frontend Developer | Vue.js Developer | UI/UX Enthusiast</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/yourusername">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
