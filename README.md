@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi there, I'm Prince Tiwari 👋</h1>
 <h3 align="center">Frontend Developer | Vue.js Developer | UI/UX Enthusiast</h3>
 
 <p align="center">
