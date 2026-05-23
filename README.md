@@ -36,16 +36,8 @@ I love building responsive websites and scalable web applications.
 ## 🌐 Connect with me:
 
 <p align="left">
-  <a href="https://twitter.com/yourusername">
-    <img src="https://skillicons.dev/icons?i=twitter" width="45"/>
-  </a>
-
   <a href="https://linkedin.com/in/yourusername">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-  </a>
-
-  <a href="https://instagram.com/yourusername">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
   </a>
 </p>
 
@@ -55,18 +47,18 @@ I love building responsive websites and scalable web applications.
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=vscode" width="48"/>
-<img src="https://skillicons.dev/icons?i=vue" width="48"/>
-<img src="https://skillicons.dev/icons?i=python" width="48"/>
-<img src="https://skillicons.dev/icons?i=cpp" width="48"/>
-<img src="https://skillicons.dev/icons?i=matlab" width="48"/>
-<img src="https://skillicons.dev/icons?i=js" width="48"/>
-<img src="https://skillicons.dev/icons?i=html" width="48"/>
-<img src="https://skillicons.dev/icons?i=css" width="48"/>
-<img src="https://skillicons.dev/icons?i=postgres" width="48"/>
-<img src="https://skillicons.dev/icons?i=git" width="48"/>
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
-<img src="https://skillicons.dev/icons?i=bash" width="48"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="42"/>
+<img src="https://skillicons.dev/icons?i=vue" width="42"/>
+<img src="https://skillicons.dev/icons?i=python" width="42"/>
+<img src="https://skillicons.dev/icons?i=cpp" width="42"/>
+<img src="https://skillicons.dev/icons?i=matlab" width="42"/>
+<img src="https://skillicons.dev/icons?i=js" width="42"/>
+<img src="https://skillicons.dev/icons?i=html" width="42"/>
+<img src="https://skillicons.dev/icons?i=css" width="42"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="42"/>
+<img src="https://skillicons.dev/icons?i=git" width="42"/>
+<img src="https://skillicons.dev/icons?i=github" width="42"/>
+<img src="https://skillicons.dev/icons?i=bash" width="42"/>
 
 </p>
 
