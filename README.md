@@ -26,7 +26,7 @@ Accomplished <b>Senior Frontend Developer</b> with 5+ years of experience archit
 </p>
 
 <ul style="font-size:16px;">
-  <li>💼 Currently: <b>Sr. Frontend Software Engineer</b> at <b>LYMPHOMAP Inc.</b>[cite: 5]</li>
+  <li>💼 Currently: <b>Sr. Frontend Software Engineer</b> at <b>LYMPHOMAP Inc.</b></li>
   <li>🔭 Key Projects: <a href="https://www.lymphomap.ai/">Lymphomap</a>, <a href="https://www.lbil.ai/">LBIL (The Digital Front Door)</a>, <a href="https://www.oddvega.com/">Oddvega</a>, and <a href="https://www.quizzort.com/">Quizzort</a></li>
   <li>⚡ Specialization: Modernizing enterprise architectures from <b>Vue 2 to Vue 3 with Vite</b>, building modular component libraries, and optimizing web performance</li>
   <li>📍 Based in: <b>Jabalpur, Madhya Pradesh, India</b></li>
