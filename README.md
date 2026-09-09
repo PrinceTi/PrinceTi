@@ -22,13 +22,13 @@
 ## 🚀 About Me
 
 <p style="font-size:16px;">
-Accomplished <b>Senior Frontend Developer</b> with 5+ years of experience architecting and engineering high-performance, intuitive, and highly responsive single-page applications (SPAs)[cite: 3]. Specialized in the <b>Vue.js ecosystem</b> (Vue 2 & Vue 3 Composition API, Nuxt.js, Vite, Pinia/Vuex), real-time streaming architectures (WebSockets, WebRTC), and modern frontend tooling[cite: 3].
+Accomplished <b>Senior Frontend Developer</b> with 5+ years of experience architecting and engineering high-performance, intuitive, and highly responsive single-page applications (SPAs). Specialized in the <b>Vue.js ecosystem</b> (Vue 2 & Vue 3 Composition API, Nuxt.js, Vite, Pinia/Vuex), real-time streaming architectures (WebSockets, WebRTC), and modern frontend tooling.
 </p>
 
 <ul style="font-size:16px;">
-  <li>💼 Currently: <b>Sr. Frontend Software Engineer</b> at <b>LYMPHOMAP Inc.</b>[cite: 3, 5]</li>
-  <li>🔭 Key Projects: <a href="https://www.lymphomap.ai/">Lymphomap</a>, <a href="https://www.lbil.ai/">LBIL (The Digital Front Door)</a>, <a href="https://www.oddvega.com/">Oddvega</a>, and <a href="https://www.quizzort.com/">Quizzort</a>[cite: 3]</li>
-  <li>⚡ Specialization: Modernizing enterprise architectures from <b>Vue 2 to Vue 3 with Vite</b>, building modular component libraries, and optimizing web performance[cite: 3]</li>
+  <li>💼 Currently: <b>Sr. Frontend Software Engineer</b> at <b>LYMPHOMAP Inc.</b>[cite: 5]</li>
+  <li>🔭 Key Projects: <a href="https://www.lymphomap.ai/">Lymphomap</a>, <a href="https://www.lbil.ai/">LBIL (The Digital Front Door)</a>, <a href="https://www.oddvega.com/">Oddvega</a>, and <a href="https://www.quizzort.com/">Quizzort</a></li>
+  <li>⚡ Specialization: Modernizing enterprise architectures from <b>Vue 2 to Vue 3 with Vite</b>, building modular component libraries, and optimizing web performance</li>
   <li>📍 Based in: <b>Jabalpur, Madhya Pradesh, India</b></li>
 </ul>
 
@@ -54,9 +54,9 @@ Accomplished <b>Senior Frontend Developer</b> with 5+ years of experience archit
 ## 📌 Featured Work & Live Deployments
 
 - 🏥 **[LBIL](https://www.lbil.ai/)** – The Digital Front Door AI/ML cloud hospital network, telemedicine suites, and encrypted EMR portals.
-- 🔬 **[Lymphomap](https://www.lymphomap.ai/)** – AI-powered clinical oncology research and virtual collaboration platform[cite: 3].
-- 🎮 **[Oddvega](https://www.oddvega.com/)** – Gamified social e-learning platform with centralized Vuex reward architectures[cite: 3].
-- 📝 **[Quizzort](https://www.quizzort.com/)** – Dynamic real-time interactive quiz and exam assessment generator[cite: 3].
+- 🔬 **[Lymphomap](https://www.lymphomap.ai/)** – AI-powered clinical oncology research and virtual collaboration platform.
+- 🎮 **[Oddvega](https://www.oddvega.com/)** – Gamified social e-learning platform with centralized Vuex reward architectures.
+- 📝 **[Quizzort](https://www.quizzort.com/)** – Dynamic real-time interactive quiz and exam assessment generator.
 
 ---
 
