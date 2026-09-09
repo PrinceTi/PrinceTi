@@ -22,13 +22,13 @@
 ## 🚀 About Me
 
 <p style="font-size:16px;">
-Accomplished <b>Senior Frontend Developer</b> with 5+ years of experience architecting and engineering high-performance, intuitive, and highly responsive single-page applications (SPAs). Specialized in the <b>Vue.js ecosystem</b> (Vue 2 & Vue 3 Composition API, Nuxt.js, Vite, Pinia/Vuex), real-time streaming architectures (WebSockets, WebRTC), and modern frontend tooling.
+Accomplished <b>Senior Frontend Developer</b> with 5+ years of experience architecting and engineering high-performance, intuitive, and responsive single-page applications (SPAs) and cross-platform experiences. Specialized in the <b>Vue.js ecosystem</b> (Vue 2 & Vue 3 Composition API, Nuxt.js, Vite, Pinia/Vuex), <b>React.js</b>, mobile UI development with <b>Flutter</b>, real-time architectures (WebSockets, WebRTC), and modern frontend tooling.
 </p>
 
 <ul style="font-size:16px;">
   <li>💼 Currently: <b>Sr. Frontend Software Engineer</b> at <b>LYMPHOMAP Inc.</b></li>
   <li>🔭 Key Projects: <a href="https://www.lymphomap.ai/">Lymphomap</a>, <a href="https://www.lbil.ai/">LBIL (The Digital Front Door)</a>, <a href="https://www.oddvega.com/">Oddvega</a>, and <a href="https://www.quizzort.com/">Quizzort</a></li>
-  <li>⚡ Specialization: Modernizing enterprise architectures from <b>Vue 2 to Vue 3 with Vite</b>, building modular component libraries, and optimizing web performance</li>
+  <li>⚡ Specialization: Modernizing enterprise architectures from <b>Vue 2 to Vue 3 with Vite</b>, building modular component libraries, and designing sleek cross-platform interfaces</li>
   <li>📍 Based in: <b>Jabalpur, Madhya Pradesh, India</b></li>
 </ul>
 
@@ -36,17 +36,22 @@ Accomplished <b>Senior Frontend Developer</b> with 5+ years of experience archit
 
 ## 🛠️ Tech Stack & Tooling
 
-### Core Frameworks, Libraries & Languages
+### Core Frameworks, Libraries & Mobile
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,js,ts,html,css,sass,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,flutter,js,ts,html,css,sass,bootstrap,materialui" />
 </p>
 
-### Build Tools, Real-Time & Backend Integrations
+### Backend, Databases & Real-Time Integrations
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vite,graphql,mysql,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,graphql" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=vuedotjs&logoColor=black" height="40" />
+</p>
+
+### Tools, IDEs & Build Systems
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,vite,git,github,postman" />
 </p>
 
 ---
